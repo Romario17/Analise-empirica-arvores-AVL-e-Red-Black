@@ -1,0 +1,92 @@
+Data: 24 / 7 / 2016
+
+Arvore: AVL
+Tipo da operacao: insercao
+Quantidade de Chaves: 1000
+Quantidade de rotacoes: 688
+Altura: 11
+Tempo em Segundos: 0.001000
+
+Arvore: AVL
+Tipo da operacao: remocao
+Quantidade de Chaves: 1000
+Quantidade de rotacoes: 414
+Altura: -1
+Tempo em Segundos: 0.001000
+
+Arvore: AVL
+Tipo da operacao: insercao
+Quantidade de Chaves: 30000
+Quantidade de rotacoes: 21153
+Altura: 17
+Tempo em Segundos: 0.041000
+
+Arvore: AVL
+Tipo da operacao: remocao
+Quantidade de Chaves: 30000
+Quantidade de rotacoes: 12132
+Altura: -1
+Tempo em Segundos: 0.040000
+
+Arvore: AVL
+Tipo da operacao: insercao
+Quantidade de Chaves: 10000000
+Quantidade de rotacoes: 7049224
+Altura: 26
+Tempo em Segundos: 22.011000
+
+Arvore: AVL
+Tipo da operacao: remocao
+Quantidade de Chaves: 10000000
+Quantidade de rotacoes: 4000571
+Altura: -1
+Tempo em Segundos: 20.503000
+
+Data: 24 / 7 / 2016
+
+Arvore: AVL
+Tipo da operacao: insercao
+Quantidade de Chaves: 30000000
+Quantidade de rotacoes: 21143951
+Altura: 27
+Tempo em Segundos: 84.295998
+
+Arvore: AVL
+Tipo da operacao: remocao
+Quantidade de Chaves: 30000000
+Quantidade de rotacoes: 11999535
+Altura: -1
+Tempo em Segundos: 68.824997
+
+Data: 24 / 7 / 2016
+
+Arvore: AVL
+Tipo da operacao: insercao
+Quantidade de Chaves: 1000000
+Quantidade de rotacoes: 704984
+Altura: 22
+Tempo em Segundos: 1.902000
+
+Arvore: AVL
+Tipo da operacao: remocao
+Quantidade de Chaves: 1000000
+Quantidade de rotacoes: 399655
+Altura: -1
+Tempo em Segundos: 1.873000
+
+Data: 24 / 7 / 2016
+
+Arvore: AVL
+Tipo da operacao: insercao
+Quantidade de Chaves: 5000000
+Quantidade de rotacoes: 3523667
+Altura: 25
+Tempo em Segundos: 6.234000
+
+Arvore: AVL
+Tipo da operacao: remocao
+Quantidade de Chaves: 5000000
+Quantidade de rotacoes: 1999200
+Altura: -1
+Tempo em Segundos: 9.013000
+
